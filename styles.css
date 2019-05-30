@@ -1,0 +1,28 @@
+table, th, td {
+  border: 1px solid black;
+  color: DimGrey;
+  font-family: "Helvetica";  
+}
+
+tt {
+  color: DimGrey;
+}
+
+h1 {
+  color: SlateGrey;
+  font-family: "Helvetica";
+}
+
+h3 {
+  color: grey;
+  font-family: "Helvetica";
+}
+
+p {
+  color: DimGrey;
+  font-family: "Helvetica";
+}
+
+body {
+  background-color: LightGrey;
+}
